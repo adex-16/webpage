@@ -1,0 +1,23 @@
+ * {
+     margin: 0;
+     padding: 0%;
+     box-sizing: border-box;
+ }
+
+ .box {
+     height: 60vh;
+     width: 60vw;
+     border: 2px solid blue;
+     margin: 100px auto;
+ }
+
+ .innerbox {
+     height: 70%;
+     width: 70%;
+     border: 2px solid red;
+     margin: 20px auto;
+ }
+ h2{
+    text-align: center;
+    font-size: 2rem;
+ }
